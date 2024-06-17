@@ -15,9 +15,19 @@
 
 - 📫 Reach me at : **binitjha2000@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blogs posts list
+  <ul>
+    <li>Deep Learning</li>
+    <li>Docker: A Deep Dive into Containerization</li>
+    <li>GCP BigQuery</li>
+    <li>Kubernetes</li>
+    <li>Nanotechnology</li>
+    <li>NFT</li>
+    <li>Metaverse</li>
+  </ul>
+  <p>For more in-depth exploration, check out the trending tech website: <a href="https://treandingtech804976769.wordpress.com/blog/">TrendingTech</a></p>
+  
+
 
 
 
